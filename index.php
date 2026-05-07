@@ -15,7 +15,7 @@ $resultado = $conn->query($sql);
 <body>
 
 <div class="contenedor">
-    <h1>Gestión de Artículos..</h1>
+    <h1>Gestión de Artículos</h1>
 
     <a href="crear.php" class="btn">+ Nuevo Artículo</a>
 
